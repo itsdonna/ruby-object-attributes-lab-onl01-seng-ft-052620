@@ -1,4 +1,4 @@
 class Dog
-  attr_writer :name
+  attr_accessor :name
   
 end
